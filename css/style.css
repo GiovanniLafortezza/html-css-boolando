@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-.width-80 {
-    width: 80%;
-}
 
 .m-auto {
     margin: 0 18%;
@@ -28,7 +25,7 @@
     font-size: x-small;
 }
 
-.fredoka {
+.t-style {
     font-family: 'Fredoka', sans-serif;
 }
 
