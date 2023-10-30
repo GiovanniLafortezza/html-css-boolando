@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.width-80 {
+    width: 80%;
+}
+
+.m-auto {
+    margin: 0 18%;
+}
+
+.mbottom-20 {
+    margin-bottom: 20px ;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.t-red {
+    color: red;
+}
+
+.t-size {
+    font-size: x-small;
+}
+
+.fredoka {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.border{
+    border: 1px solid rgb(229,229,229);
+}
+.flex-container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap: 30px 20px;
+}
+
+.items {
+    flex-direction: column; 
+}
+
+img {
+    width: 220px;
+    height:auto;
+}
+ 
+
